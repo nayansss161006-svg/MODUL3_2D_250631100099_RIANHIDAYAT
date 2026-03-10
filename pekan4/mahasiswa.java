@@ -34,7 +34,7 @@ public class Mahasiswa {
         Mahasiswa mhs1 = new Mahasiswa();
 
         // Objek menggunakan constructor dengan parameter
-        Mahasiswa mhs2 = new Mahasiswa("Ryan", 19, "Informatika");
+        Mahasiswa mhs2 = new Mahasiswa("Rian", 21, "Informatika");
 
         // Menampilkan data
         mhs1.tampilkanData();
